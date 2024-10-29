@@ -8,6 +8,7 @@ public class Prime
         System.out.println(isPrime(27));
         System.out.println(isPrime(47));
         System.out.println(countPrimes(24));
+        System.out.println(countPrimes(1000));
     }
     public static int countFactors(int n)
     {
